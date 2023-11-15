@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\unity2week\\TEST12zo\\TEST12zo\\TEST12zo.csproj": {}
+    "D:\\Github\\TEST12zo\\TEST12zo\\TEST12zo.csproj": {}
   },
   "projects": {
-    "D:\\unity2week\\TEST12zo\\TEST12zo\\TEST12zo.csproj": {
+    "D:\\Github\\TEST12zo\\TEST12zo\\TEST12zo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unity2week\\TEST12zo\\TEST12zo\\TEST12zo.csproj",
+        "projectUniqueName": "D:\\Github\\TEST12zo\\TEST12zo\\TEST12zo.csproj",
         "projectName": "TEST12zo",
-        "projectPath": "D:\\unity2week\\TEST12zo\\TEST12zo\\TEST12zo.csproj",
-        "packagesPath": "C:\\Users\\qiqib\\.nuget\\packages\\",
-        "outputPath": "D:\\unity2week\\TEST12zo\\TEST12zo\\obj\\",
+        "projectPath": "D:\\Github\\TEST12zo\\TEST12zo\\TEST12zo.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\TEST12zo\\TEST12zo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\qiqib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

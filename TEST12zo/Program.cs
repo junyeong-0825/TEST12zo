@@ -136,6 +136,7 @@ namespace Week2Assign
             AddItem(new Item("무쇠갑옷", "무쇠로 만들어져 튼튼한 갑옷입니다.", 0, 0, 5, 0));
             AddItem(new Item("낡은 검", "쉽게 볼 수 있는 낡은 검입니다.", 1, 2, 0, 0));
             AddItem(new Item("골든 헬름", "희귀한 광석으로 만들어진 투구입니다.", 1, 0, 9, 0));
+            AddItem(new Item("K-2", "군대에서 흔하게 볼 수 있는 자동소총이다.", 1, 30, 0, 0));
         }
 
         static void StartMenu()
